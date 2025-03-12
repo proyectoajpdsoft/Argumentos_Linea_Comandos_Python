@@ -1,2 +1,1 @@
-# Argumentos_Linea_Comandos_Python
- Trabajar con parámetros (argumentos) por línea de comandos con Python
+Cómo crear una ayuda «profesional» desde la línea de comandos y cómo obtener los argumentos (parámetros) pasados por línea de comandos a una aplicación/script Python. Mostramos el método usando la librería argparse y cómo obtener los argumentos sin librerías, con argv. Más información en: https://proyectoa.com/trabajar-con-parametros-argumentos-por-linea-de-comandos-con-python/
